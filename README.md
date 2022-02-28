@@ -1,2 +1,2 @@
-# python_ascii_art_block_letters
+# Python ASCII Art Block Letters Project
 ASCII Art Project with Python
